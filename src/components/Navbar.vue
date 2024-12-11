@@ -9,7 +9,7 @@ function toggleMenu() {
 }
 </script>
 <template>
-  <nav class="fixed w-full z-20 top-0 start-0 border-b border-gray-200 nav">
+  <nav class="w-full z-50 top-0 start-0 border-b border-gray-200 nav">
     <div
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
     >
@@ -80,7 +80,6 @@ function toggleMenu() {
     </div>
   </nav>
 </template>
-
 <style scoped>
 .nav {
   background-color: var(--color-background-soft);
