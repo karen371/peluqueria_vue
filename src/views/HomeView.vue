@@ -1,10 +1,33 @@
 <script setup>
-import TheWelcome from '../components/Navbar.vue'
+import Navbar from '../components/Navbar.vue'
 import Header from '@/components/Header.vue';
 </script>
 
 <template>
+  <header class="flex flex-col">
+    <Navbar/>
+    <Header/>
+  </header>
   <main>
-    <h2>Bienvenidos</h2>
+    <section>
+      <!--Quienes somos-->
+    </section>
+    <section>
+      <!--Servicios-->
+    </section>
+    <section>
+      <!--Productos utilizados-->
+    </section>
+    <section>
+      <!--Tratamientos-->
+    </section>
+    <section>
+      <!--Promociones-->
+    </section>
+    <section>
+      <!--Contacto-->
+    </section>
+
   </main>
+
 </template>
