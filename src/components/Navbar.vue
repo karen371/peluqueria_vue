@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue';
-import imglogo from '../assets/img/logo.png';
+import imglogo from '../assets/img/logo2.png';
 
 const menuOpen = ref(false);
 
@@ -44,7 +44,7 @@ function toggleMenu() {
               href="#"
               class="block py-2 px-3 text-primary rounded md:bg-transparent md:p-0"
               aria-current="page"
-              >Inicio</a
+              >El Salón</a
             >
           </li>
           <li>
@@ -58,21 +58,21 @@ function toggleMenu() {
             <a
               href="#"
               class="block py-2 px-3 text-primary rounded hover:bg-gray-100 md:hover:bg-transparent md:p-0"
-              >Tratamientos</a
+              >Novias</a
             >
           </li>
           <li>
             <a
               href="#"
               class="block py-2 px-3 text-primary rounded hover:bg-gray-100 md:hover:bg-transparent md:p-0"
-              >Promociones</a
+              >Tienda</a
             >
           </li>
           <li>
             <a
               href="#"
               class="block py-2 px-3 text-primary rounded hover:bg-gray-100 md:hover:bg-transparent md:p-0"
-              >Contacto</a
+              >Horarios y Locales</a
             >
           </li>
         </ul>
@@ -82,11 +82,11 @@ function toggleMenu() {
 </template>
 <style scoped>
 .nav {
-  background-color: var(--color-background-soft);
+  background-color: var(--vt-c-black);
 }
 
 .text-primary {
-  color: var(--vt-c-text-light-1); /* Usando un color definido */
+  color: var( --vt-c-white-mute); /* Usando un color definido */
 }
 
 .text-primary:hover {
