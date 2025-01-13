@@ -1,0 +1,40 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "URBAN ANTIDOTES™ DUO RESURRECTION Shampoo y acondicionador 750ml",
+        "descripcion": "Ideal para cabello muy dañados -nivel alto- causados por productos químicos (por coloración o procesos químicos) Repara los daños externos y suaviza la cutícula, así el cabello se siente más saludable y suave. Humecta el cabello, lo deja acondicionado y nutrido.Especial para para cabellos teñidos y muy maltratados.",
+        "imagen": "https://kuchisalon.com/wp-content/uploads/2020/11/RESURRECTION-750ML.jpg",
+        "precio": 15000
+      },
+      {
+        "id": 2,
+        "nombre": "Re-Shaper 400ml Spray Fijador Sebastian",
+        "descripcion": "Vuelve a definir y a dar estilo a cualquier forma. Crea el peinado que desees con Re-Shaper. Este spray de uso profesional aporta una fijación fuerte y deja el cabello manejable al mismo tiempo. Re-Shaper se elimina fácilmente cepillando el cabello, permitiendo cambiar de look tantas veces como quieras. Apto para todo tipo de cabellos, este spray aporta una fijación duradera y protege el cabello de los efectos de la humedad.",
+        "imagen": "https://kuchisalon.com/wp-content/uploads/2019/09/reshaper-sebastian.jpg",
+        "precio": 20000
+      },
+      {
+        "id": 3,
+        "nombre": "Hidratante desenredante EQUAVE REVLON- (todo tipo de cabello)",
+        "descripcion": "ACONDICIONADOR INSTANTÁNEO ANTI-ROTURA PARA TODO TIPO DE CABELLO Inspirado en la elasticidad natural y la resistencia del bambú y formulado con 97% ingredientes de origen natural. Desenreda instantáneamente el cabello, reduce el quiebre por el cepillado o peinado y ayuda a reducir la apariencia de las puntas abiertas.",
+        "imagen": "https://kuchisalon.com/wp-content/uploads/2019/09/equave-revlon-azul.png",
+        "precio": 13000
+      },
+      {
+        "id": 4,
+        "nombre": "SHAMPOO EXFOLIANTE ICE VIBE (caspa/grasa leve)",
+        "descripcion": "Problemas de grasa y caspa – SHAMPOO EXFOLIANTE ICE VIBE de la línea Mellow, con efecto peeling capilar. Limpia profundamente. Contiene Mentol y vitamina E. Se usa 1 o 2 veces por semana y no necesita acondicionador. Puedes seguir usando tu shampoo normal adicional a este, para los demás días. El tratamiento es completo hasta terminar todo el frasco.",
+        "imagen": "https://kuchisalon.com/wp-content/uploads/2020/10/ICE-VIBE.jpg",
+        "precio": 10000
+      },
+      {
+        "id": 5,
+        "nombre": "Shampoo Ice-Vibe 1000 ml / Mellow (Para cabello con exceso de grasa)",
+        "descripcion": "Problemas de grasa y caspa – SHAMPOO EXFOLIANTE ICE VIBE de la línea Mellow, con efecto peeling capilar. Limpia profundamente. Contiene Mentol y vitamina E. Se usa 1 o 2 veces por semana y no necesita acondicionador. Puedes seguir usando tu shampoo normal adicional a este, para los demás días. El tratamiento es completo hasta terminar todo el frasco." ,
+        "imagen": "https://kuchisalon.com/wp-content/uploads/2022/06/ICE-VIBE-1000ml.jpg",
+        "precio":16000
+    }
+    ]
+  }
+  

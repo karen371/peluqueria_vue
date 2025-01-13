@@ -10,7 +10,7 @@ import Header from '@/components/Header.vue';
   </header>
   <main>
     <section>
-      <!--Quienes somos-->
+        <h2 class="text-5xl font-extrabold text-primary mb-2">Te puede interesar</h2>
     </section>
     <section>
       <!--Servicios-->
